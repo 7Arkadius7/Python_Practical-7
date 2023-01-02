@@ -2,6 +2,7 @@ import model
 import view
 import logger
 
+
 def start():
     model.set_first_number(view.input_number())
     operation = view.input_operation()

@@ -2,7 +2,7 @@ first_number = 0
 intermediate_result = 0
 next_number = 0
 
-def summa() -> int:
+def summa() :
     global intermediate_result
     global next_number
     global first_number
